@@ -1,0 +1,3 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = https://github.com/ipa325/TestRepository.git
